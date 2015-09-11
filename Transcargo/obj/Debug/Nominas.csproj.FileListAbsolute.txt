@@ -1,0 +1,140 @@
+M:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\obj\Debug\Nominas.csprojResolveAssemblyReference.cache
+M:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\obj\Debug\Conector.Form2.resources
+M:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\obj\Debug\Conector.Form4.resources
+M:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\obj\Debug\Transcargo.Properties.Resources.resources
+M:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\obj\Debug\Conector.RadForm1.resources
+M:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\obj\Debug\Nominas.csproj.GenerateResource.Cache
+M:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\bin\Debug\Transcargo.exe.config
+M:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\bin\Debug\Transcargo.exe
+M:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\bin\Debug\Transcargo.pdb
+M:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\obj\Debug\Transcargo.exe
+M:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\obj\Debug\Transcargo.pdb
+M:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\obj\Debug\Transcargo.Form3.resources
+G:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\bin\Debug\Transcargo.exe.config
+G:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\bin\Debug\Transcargo.exe
+G:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\bin\Debug\Transcargo.pdb
+G:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\obj\Debug\Nominas.csprojResolveAssemblyReference.cache
+G:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\obj\Debug\Transcargo.Form3.resources
+G:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\obj\Debug\Conector.Form4.resources
+G:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\obj\Debug\Transcargo.Properties.Resources.resources
+G:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\obj\Debug\Conector.RadForm1.resources
+G:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\obj\Debug\Nominas.csproj.GenerateResource.Cache
+G:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\obj\Debug\Transcargo.exe
+G:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\obj\Debug\Transcargo.pdb
+E:\Nominas\Transcargo\bin\Debug\Transcargo.exe.config
+E:\Nominas\Transcargo\bin\Debug\Transcargo.exe
+E:\Nominas\Transcargo\bin\Debug\Transcargo.pdb
+E:\Nominas\Transcargo\obj\Debug\Transcargo.Form3.resources
+E:\Nominas\Transcargo\obj\Debug\Conector.Form4.resources
+E:\Nominas\Transcargo\obj\Debug\Transcargo.Properties.Resources.resources
+E:\Nominas\Transcargo\obj\Debug\Conector.RadForm1.resources
+E:\Nominas\Transcargo\obj\Debug\Nominas.csproj.GenerateResource.Cache
+E:\Nominas\Transcargo\obj\Debug\Transcargo.exe
+E:\Nominas\Transcargo\obj\Debug\Transcargo.pdb
+E:\Nominas\Transcargo\obj\Debug\Transcargo.Form2.resources
+E:\Nominas\Transcargo\obj\Debug\Transcargo.RadForm2.resources
+E:\Nominas\Transcargo\obj\Debug\Transcargo.exe.licenses
+E:\Nominas\Transcargo\obj\Debug\Transcargo.RadForm3.resources
+G:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\obj\Debug\Transcargo.Form2.resources
+G:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\obj\Debug\Transcargo.RadForm2.resources
+G:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\obj\Debug\Transcargo.RadForm3.resources
+G:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\obj\Debug\Transcargo.exe.licenses
+G:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\bin\Debug\DevExpress.Data.v12.2.dll
+G:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\bin\Debug\DevExpress.Utils.v12.2.dll
+G:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\bin\Debug\DevExpress.XtraGrid.v12.2.dll
+G:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\bin\Debug\DevExpress.XtraPrinting.v12.2.dll
+G:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\bin\Debug\System.Data.dll
+G:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\bin\Debug\System.dll
+G:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\bin\Debug\System.Drawing.dll
+G:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\bin\Debug\System.Windows.Forms.dll
+G:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\bin\Debug\System.Xml.dll
+G:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\bin\Debug\Telerik.WinControls.dll
+G:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\bin\Debug\Telerik.WinControls.GridView.dll
+G:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\bin\Debug\Telerik.WinControls.Themes.TelerikMetro.dll
+G:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\bin\Debug\Telerik.WinControls.Themes.VisualStudio2012Dark.dll
+G:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\bin\Debug\Telerik.WinControls.UI.dll
+G:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\bin\Debug\TelerikCommon.dll
+G:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\bin\Debug\DevExpress.Data.v12.2.xml
+G:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\bin\Debug\DevExpress.Utils.v12.2.xml
+G:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\bin\Debug\DevExpress.XtraGrid.v12.2.xml
+G:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\bin\Debug\DevExpress.XtraPrinting.v12.2.xml
+G:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\bin\Debug\Telerik.WinControls.xml
+G:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\bin\Debug\Telerik.WinControls.GridView.xml
+G:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\bin\Debug\Telerik.WinControls.UI.xml
+G:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\bin\Debug\de\DevExpress.Data.v12.2.resources.dll
+G:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\bin\Debug\es\DevExpress.Data.v12.2.resources.dll
+G:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\bin\Debug\ja\DevExpress.Data.v12.2.resources.dll
+G:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\bin\Debug\ru\DevExpress.Data.v12.2.resources.dll
+G:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\bin\Debug\de\DevExpress.Utils.v12.2.resources.dll
+G:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\bin\Debug\es\DevExpress.Utils.v12.2.resources.dll
+G:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\bin\Debug\ja\DevExpress.Utils.v12.2.resources.dll
+G:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\bin\Debug\ru\DevExpress.Utils.v12.2.resources.dll
+G:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\bin\Debug\de\DevExpress.XtraGrid.v12.2.resources.dll
+G:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\bin\Debug\es\DevExpress.XtraGrid.v12.2.resources.dll
+G:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\bin\Debug\ja\DevExpress.XtraGrid.v12.2.resources.dll
+G:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\bin\Debug\ru\DevExpress.XtraGrid.v12.2.resources.dll
+G:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\bin\Debug\de\DevExpress.XtraPrinting.v12.2.resources.dll
+G:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\bin\Debug\es\DevExpress.XtraPrinting.v12.2.resources.dll
+G:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\bin\Debug\ja\DevExpress.XtraPrinting.v12.2.resources.dll
+G:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\bin\Debug\ru\DevExpress.XtraPrinting.v12.2.resources.dll
+E:\Nominas\Transcargo\bin\Debug\System.Data.dll
+E:\Nominas\Transcargo\bin\Debug\System.dll
+E:\Nominas\Transcargo\bin\Debug\System.Drawing.dll
+E:\Nominas\Transcargo\bin\Debug\System.Windows.Forms.dll
+E:\Nominas\Transcargo\bin\Debug\System.Xml.dll
+E:\Nominas\Transcargo\bin\Debug\Telerik.WinControls.dll
+E:\Nominas\Transcargo\bin\Debug\Telerik.WinControls.GridView.dll
+E:\Nominas\Transcargo\bin\Debug\Telerik.WinControls.Themes.TelerikMetro.dll
+E:\Nominas\Transcargo\bin\Debug\Telerik.WinControls.Themes.VisualStudio2012Dark.dll
+E:\Nominas\Transcargo\bin\Debug\Telerik.WinControls.UI.dll
+E:\Nominas\Transcargo\bin\Debug\TelerikCommon.dll
+E:\Nominas\Transcargo\bin\Debug\Telerik.WinControls.xml
+E:\Nominas\Transcargo\bin\Debug\Telerik.WinControls.GridView.xml
+E:\Nominas\Transcargo\bin\Debug\Telerik.WinControls.UI.xml
+G:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\bin\Debug\DevExpress.XtraRichEdit.v12.2.Printing.dll
+G:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\bin\Debug\DevExpress.Printing.v12.2.Core.dll
+G:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\bin\Debug\DevExpress.Printing.v12.2.Core.xml
+G:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\bin\Debug\de\DevExpress.Printing.v12.2.Core.resources.dll
+G:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\bin\Debug\es\DevExpress.Printing.v12.2.Core.resources.dll
+G:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\bin\Debug\ja\DevExpress.Printing.v12.2.Core.resources.dll
+G:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\bin\Debug\ru\DevExpress.Printing.v12.2.Core.resources.dll
+G:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\bin\Debug\DevExpress.XtraEditors.v12.2.dll
+G:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\bin\Debug\DevExpress.XtraEditors.v12.2.xml
+G:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\bin\Debug\de\DevExpress.XtraEditors.v12.2.resources.dll
+G:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\bin\Debug\es\DevExpress.XtraEditors.v12.2.resources.dll
+G:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\bin\Debug\ja\DevExpress.XtraEditors.v12.2.resources.dll
+G:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\bin\Debug\ru\DevExpress.XtraEditors.v12.2.resources.dll
+E:\Nominas\Transcargo\bin\Debug\System.Management.dll
+E:\Nominas\Transcargo\bin\Debug\Telerik.WinControls.Themes.VisualStudio2012Light.dll
+E:\Nominas\Transcargo\obj\Debug\Nominas.csprojResolveAssemblyReference.cache
+E:\ProysTmp\Nominas\Transcargo\bin\Debug\Transcargo.exe.config
+E:\ProysTmp\Nominas\Transcargo\bin\Debug\Transcargo.exe
+E:\ProysTmp\Nominas\Transcargo\bin\Debug\Transcargo.pdb
+E:\ProysTmp\Nominas\Transcargo\bin\Debug\System.Data.dll
+E:\ProysTmp\Nominas\Transcargo\bin\Debug\System.dll
+E:\ProysTmp\Nominas\Transcargo\bin\Debug\System.Drawing.dll
+E:\ProysTmp\Nominas\Transcargo\bin\Debug\System.Management.dll
+E:\ProysTmp\Nominas\Transcargo\bin\Debug\System.Windows.Forms.dll
+E:\ProysTmp\Nominas\Transcargo\bin\Debug\System.Xml.dll
+E:\ProysTmp\Nominas\Transcargo\bin\Debug\Telerik.WinControls.dll
+E:\ProysTmp\Nominas\Transcargo\bin\Debug\Telerik.WinControls.GridView.dll
+E:\ProysTmp\Nominas\Transcargo\bin\Debug\Telerik.WinControls.Themes.TelerikMetro.dll
+E:\ProysTmp\Nominas\Transcargo\bin\Debug\Telerik.WinControls.Themes.VisualStudio2012Dark.dll
+E:\ProysTmp\Nominas\Transcargo\bin\Debug\Telerik.WinControls.Themes.VisualStudio2012Light.dll
+E:\ProysTmp\Nominas\Transcargo\bin\Debug\Telerik.WinControls.UI.dll
+E:\ProysTmp\Nominas\Transcargo\bin\Debug\TelerikCommon.dll
+E:\ProysTmp\Nominas\Transcargo\bin\Debug\Telerik.WinControls.xml
+E:\ProysTmp\Nominas\Transcargo\bin\Debug\Telerik.WinControls.GridView.xml
+E:\ProysTmp\Nominas\Transcargo\bin\Debug\Telerik.WinControls.UI.xml
+E:\ProysTmp\Nominas\Transcargo\obj\Debug\Nominas.csprojResolveAssemblyReference.cache
+E:\ProysTmp\Nominas\Transcargo\obj\Debug\Transcargo.Form2.resources
+E:\ProysTmp\Nominas\Transcargo\obj\Debug\Transcargo.Form3.resources
+E:\ProysTmp\Nominas\Transcargo\obj\Debug\Conector.Form4.resources
+E:\ProysTmp\Nominas\Transcargo\obj\Debug\Transcargo.Properties.Resources.resources
+E:\ProysTmp\Nominas\Transcargo\obj\Debug\Conector.RadForm1.resources
+E:\ProysTmp\Nominas\Transcargo\obj\Debug\Transcargo.RadForm2.resources
+E:\ProysTmp\Nominas\Transcargo\obj\Debug\Transcargo.RadForm3.resources
+E:\ProysTmp\Nominas\Transcargo\obj\Debug\Nominas.csproj.GenerateResource.Cache
+E:\ProysTmp\Nominas\Transcargo\obj\Debug\Transcargo.exe.licenses
+E:\ProysTmp\Nominas\Transcargo\obj\Debug\Transcargo.exe
+E:\ProysTmp\Nominas\Transcargo\obj\Debug\Transcargo.pdb

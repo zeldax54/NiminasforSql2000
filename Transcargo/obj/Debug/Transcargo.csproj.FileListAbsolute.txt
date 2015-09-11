@@ -1,0 +1,25 @@
+G:\Programacion y desarrollo\proyectos visual studio 2010\Transcargo\Transcargo\bin\Debug\Transcargo.exe.config
+G:\Programacion y desarrollo\proyectos visual studio 2010\Transcargo\Transcargo\bin\Debug\Transcargo.exe
+G:\Programacion y desarrollo\proyectos visual studio 2010\Transcargo\Transcargo\bin\Debug\Transcargo.pdb
+G:\Programacion y desarrollo\proyectos visual studio 2010\Transcargo\Transcargo\obj\Debug\Transcargo.csprojResolveAssemblyReference.cache
+G:\Programacion y desarrollo\proyectos visual studio 2010\Transcargo\Transcargo\obj\Debug\Transcargo.Properties.Resources.resources
+G:\Programacion y desarrollo\proyectos visual studio 2010\Transcargo\Transcargo\obj\Debug\Transcargo.csproj.GenerateResource.Cache
+G:\Programacion y desarrollo\proyectos visual studio 2010\Transcargo\Transcargo\obj\Debug\Transcargo.exe
+G:\Programacion y desarrollo\proyectos visual studio 2010\Transcargo\Transcargo\obj\Debug\Transcargo.pdb
+G:\Programacion y desarrollo\proyectos visual studio 2010\Transcargo\Transcargo\obj\Debug\Conector.Form2.resources
+G:\Programacion y desarrollo\proyectos visual studio 2010\Transcargo\Transcargo\obj\Debug\Conector.Form4.resources
+G:\Programacion y desarrollo\proyectos visual studio 2010\Transcargo\Transcargo\obj\Debug\Conector.RadForm1.resources
+H:\Programacion y desarrollo\proyectos visual studio 2010\Conector 0.2\Transcargo\bin\Debug\Transcargo.exe.config
+H:\Programacion y desarrollo\proyectos visual studio 2010\Conector 0.2\Transcargo\obj\Debug\Transcargo.exe
+H:\Programacion y desarrollo\proyectos visual studio 2010\Conector 0.2\Transcargo\obj\Debug\Transcargo.pdb
+H:\Programacion y desarrollo\proyectos visual studio 2010\Conector 0.2\Transcargo\bin\Debug\Transcargo.exe
+H:\Programacion y desarrollo\proyectos visual studio 2010\Conector 0.2\Transcargo\bin\Debug\Transcargo.pdb
+H:\Programacion y desarrollo\proyectos visual studio 2010\Conector 0.2\Transcargo\obj\Debug\Transcargo.csprojResolveAssemblyReference.cache
+H:\Programacion y desarrollo\proyectos visual studio 2010\Conector 0.2\Transcargo\obj\Debug\Conector.Form2.resources
+H:\Programacion y desarrollo\proyectos visual studio 2010\Conector 0.2\Transcargo\obj\Debug\Conector.Form4.resources
+H:\Programacion y desarrollo\proyectos visual studio 2010\Conector 0.2\Transcargo\obj\Debug\Transcargo.Properties.Resources.resources
+H:\Programacion y desarrollo\proyectos visual studio 2010\Conector 0.2\Transcargo\obj\Debug\Conector.RadForm1.resources
+H:\Programacion y desarrollo\proyectos visual studio 2010\Conector 0.2\Transcargo\obj\Debug\Transcargo.csproj.GenerateResource.Cache
+M:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\bin\Debug\Transcargo.exe.config
+M:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\obj\Debug\Transcargo.exe
+M:\Programacion y desarrollo\proyectos visual studio 2010\Nominas\Transcargo\obj\Debug\Transcargo.pdb
